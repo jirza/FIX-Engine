@@ -1,4 +1,1 @@
-# hello-world
-my first repo
-
-Ok, this is my readme message.
+# Objective: re-target FIX engine code to parallel implementation.
